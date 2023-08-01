@@ -1,3 +1,3 @@
 this is my first test file in github 
 adding second line for my test file
-conflict line - this is master line 
+conflict line -> this line is of brach1
